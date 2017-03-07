@@ -3,7 +3,7 @@ package com.adib;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication(scanBasePackages = "com.adib.*")
+@SpringBootApplication
 public class Application {
 
 	public static void main(String[] args) {
